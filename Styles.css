@@ -1,0 +1,47 @@
+
+h1{    
+position: relative;
+top: 30%;
+font-style: oblique;
+font-family: cursive;
+font-size: 50px;  
+
+}
+p{
+font-style: italic;
+position: relative;
+top: 38%;
+background-color: rgb(124, 217, 217);
+border-radius: 50%;
+
+}
+img{
+ 
+    border-radius: 50%;
+    position: relative;
+    top: 10px;
+    left: 5%;
+    height: 100px; width:100px; 
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(8, 11, 5);
+    border-width: 5px;
+    width: 320px;
+    position: relative;
+    top: 43%;
+}
+body{
+background-image: url(Background.jpg);
+}
+td{
+    word-spacing: 20px;
+    position: absolute;
+    left: 70%;
+    top: 20px;
+    font-size: 120%;
+
+}
+
